@@ -2,6 +2,11 @@
 
 Implemented a movie recommendation system using content-based filtering on a dataset of 4,500 movies with IMDb ratings, movie names, and genres. gaining valuable insights into recommendation algorithms and machine learning implementation.
 
+## Installation
+
+1. Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/Muhammad-Talha4k/Movies-Recommendation-System.git
 
 ## Contributions
    We welcome contributions from the community. Feel free to suggest improvements, fixes, or new features through issues or pull requests.
